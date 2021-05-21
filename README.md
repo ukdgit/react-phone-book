@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
-This project serves the purpose of adding the contact name and email to the contact-![Capture](https://user-images.githubusercontent.com/78226651/119175556-98181b00-ba87-11eb-8654-c06424bf56d1.PNG)
-![Capture3](https://user-images.githubusercontent.com/78226651/119175559-99494800-ba87-11eb-8c0b-6ba945c66f62.PNG)
-![Capture5](https://user-images.githubusercontent.com/78226651/119175562-99e1de80-ba87-11eb-91c4-cef2f16f154c.PNG)
-![Capture6](https://user-images.githubusercontent.com/78226651/119175565-9a7a7500-ba87-11eb-8ae7-2b96ee3a0221.PNG)
-list and delete them. It also allows you to check the contact details of particular contact.
+This project serves the purpose of adding the contact name and email to the contact-list and delete them. It also allows you to check the contact details of particular contact.![Capture](https://user-images.githubusercontent.com/78226651/119175934-196fad80-ba88-11eb-871a-6bc1d953822d.PNG)
+![Capture2](https://user-images.githubusercontent.com/78226651/119175940-1aa0da80-ba88-11eb-972b-c67305261d93.PNG)
+![Capture3](https://user-images.githubusercontent.com/78226651/119175942-1b397100-ba88-11eb-9910-fcc05172898b.PNG)
+![Capture4](https://user-images.githubusercontent.com/78226651/119175944-1b397100-ba88-11eb-9ac5-48154a8b1c9e.PNG)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
