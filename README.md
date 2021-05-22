@@ -1,9 +1,10 @@
 # Getting Started with Create React App
 
-This project serves the purpose of adding the contact name and email to the contact-list and delete them. It also allows you to check the contact details of particular contact.![Capture](https://user-images.githubusercontent.com/78226651/119175934-196fad80-ba88-11eb-871a-6bc1d953822d.PNG)
-![Capture2](https://user-images.githubusercontent.com/78226651/119175940-1aa0da80-ba88-11eb-972b-c67305261d93.PNG)
-![Capture3](https://user-images.githubusercontent.com/78226651/119175942-1b397100-ba88-11eb-9910-fcc05172898b.PNG)
-![Capture4](https://user-images.githubusercontent.com/78226651/119175944-1b397100-ba88-11eb-9ac5-48154a8b1c9e.PNG)
+This project utilizes the JSON-server for our fake APIs and React Axios package to perform HTTP Requests in react. I have followed the RESTful API convention (GET, POST, PUT, DELETE) and performed CREATE, READ, UPDATE and DELETE operations on our contacts resource.
+[Capture1](https://user-images.githubusercontent.com/78226651/119237651-87d17000-bb5b-11eb-9700-ba3566fd849d.PNG)
+![Capture2](https://user-images.githubusercontent.com/78226651/119237653-89029d00-bb5b-11eb-9357-0cc69e51292c.PNG)
+![Capture3](https://user-images.githubusercontent.com/78226651/119237654-899b3380-bb5b-11eb-979b-9e4365ce1649.PNG)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
