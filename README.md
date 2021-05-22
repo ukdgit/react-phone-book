@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project utilizes the JSON-server for our fake APIs and React Axios package to perform HTTP Requests in react. I have followed the RESTful API convention (GET, POST, PUT, DELETE) and performed CREATE, READ, UPDATE and DELETE operations on our contacts resource.
+This project utilizes the JSON-server for the fake APIs and React Axios package to perform HTTP Requests in react. I have followed the RESTful API convention (GET, POST, PUT, DELETE) and performed CREATE, READ, UPDATE and DELETE operations on the contacts resource.
 [Capture1](https://user-images.githubusercontent.com/78226651/119237651-87d17000-bb5b-11eb-9700-ba3566fd849d.PNG)
 ![Capture2](https://user-images.githubusercontent.com/78226651/119237653-89029d00-bb5b-11eb-9357-0cc69e51292c.PNG)
 ![Capture3](https://user-images.githubusercontent.com/78226651/119237654-899b3380-bb5b-11eb-979b-9e4365ce1649.PNG)
